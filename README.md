@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🌐 About Me <a name="built-with"></a>
+  <ul>
+    <li>I like experimenting with new technologies</li>
+    <li>Currently self-learning at (www.theodinproject.com)[The Odin Project]</li>
+    <li>Electronic engineering graduate</li>
+    <li>Taking walks and watching football are my hobbies</li>
+  </ul>
+  
+## U+1F6E0 Tech Stack<a name="built-with"></a>
+  <ul>
+	   <li>JavaScript | Bootstrap | HTML | CSS | Webpack  </li>
+	   <li>VSCode | Git | Gitflow | Netlify</li>
+  </ul>
