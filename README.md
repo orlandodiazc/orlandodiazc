@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 ## 🌐 About Me <a name="built-with"></a>
   <ul>
     <li>I like experimenting with new technologies</li>
-    <li>Currently self-learning at ![The Odin Project](https://www.theodinproject.com/)</li>
+    <li>Currently self-learning at The Odin Project</li>
     <li>Electronic engineering graduate</li>
     <li>Taking walks and watching football are my hobbies</li>
   </ul>
   
-## ![hammer_and_wrench](https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png) Tech Stack <a name="built-with"></a>
+## 🔨 Tech Stack <a name="built-with"></a>
   <ul>
 	   <li>JavaScript | Bootstrap | HTML | CSS | Webpack  </li>
 	   <li>VSCode | Git | Gitflow | Netlify</li>
