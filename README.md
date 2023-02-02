@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 🌐 About Me <a name="built-with"></a>
   <ul>
     <li>I like experimenting with new technologies</li>
-    <li>Currently self-learning at [www.theodinproject.com](The Odin Project)</li>
+    <li>Currently self-learning at [The Odin Project](https://www.theodinproject.com/)</li>
     <li>Electronic engineering graduate</li>
     <li>Taking walks and watching football are my hobbies</li>
   </ul>
