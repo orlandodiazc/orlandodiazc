@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <li>Taking walks and watching football are my hobbies</li>
   </ul>
   
-## ![hammer_and_wrench](https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png) <a name="built-with"></a>
+## ![hammer_and_wrench](https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png) Tech Stack <a name="built-with"></a>
   <ul>
 	   <li>JavaScript | Bootstrap | HTML | CSS | Webpack  </li>
 	   <li>VSCode | Git | Gitflow | Netlify</li>
