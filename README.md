@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 ## 🌐 About Me <a name="built-with"></a>
   <ul>
-    <li>I like experimenting with new technologies</li>
-    <li>Currently self-learning at The Odin Project</li>
-    <li>Electronic engineering graduate</li>
-    <li>Taking walks and watching football are my hobbies</li>
+    <li>🌱 I like experimenting with new technologies</li>
+    <li>🔭 Currently learning TypeScript</li>
+    <li>Electronic Engineering graduate</li>
+    <li>😄 Taking walks and watching football are my hobbies</li>
   </ul>
   
 ## 🔨 Tech Stack <a name="built-with"></a>
   <ul>
-	   <li>JavaScript | Bootstrap | HTML | CSS | Webpack  </li>
+	   <li>JavaScript | Bootstrap | HTML | CSS | Webpack | ReactJS | Redux | TailwindCSS | Jest | React Testing Library  </li>
 	   <li>VSCode | Git | Gitflow | Netlify</li>
   </ul>
