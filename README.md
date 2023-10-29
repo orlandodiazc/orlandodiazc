@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ## 🌐 About Me <a name="built-with"></a>
   <ul>
     <li>🌱 I like experimenting with new technologies</li>
-    <li>🔭 Currently learning TypeScript</li>
-    <li>Electronic Engineering graduate</li>
+    <li>🔭 Currently learning Java Backend Development</li>
+    <li>🔋 Electronic Engineering graduate</li>
     <li>😄 Taking walks and watching football are my hobbies</li>
   </ul>
   
