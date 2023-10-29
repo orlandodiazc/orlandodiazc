@@ -25,6 +25,6 @@ Here are some ideas to get you started:
   
 ## 🔨 Tech Stack <a name="built-with"></a>
   <ul>
-	   <li>JavaScript | Bootstrap | HTML | CSS | Webpack | ReactJS | Redux | TailwindCSS | Jest | React Testing Library  </li>
+	   <li>TypeScript | ReactJS | Redux | Jest | Testing Library | TailwindCSS | Bootstrap | Sass </li>
 	   <li>VSCode | Git | Gitflow | Netlify</li>
   </ul>
