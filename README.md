@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌐 About Me <a name="built-with"></a>
+## 🌐 About Me <a name="built-with"/>
   <ul>
     <li>🌱 I like experimenting with new technologies</li>
     <li>🔭 Currently learning Java Backend Development</li>
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <li>😄 Taking walks and watching football are my hobbies</li>
   </ul>
   
-## 🔨 Tech Stack <a name="built-with"></a>
+## 🔨 Tech Stack <a name="built-with"/>
   <ul>
 	   <li>TypeScript | ReactJS | Redux | Jest | Testing Library | TailwindCSS | Bootstrap | Sass </li>
 	   <li>VSCode | Git | Gitflow | Netlify</li>
