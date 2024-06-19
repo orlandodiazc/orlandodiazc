@@ -16,15 +16,17 @@ Here are some ideas to get you started:
 -->
 
 ## 🌐 About Me <a name="built-with"/>
-  <ul>
-    <li>🌱 I like experimenting with new technologies</li>
-    <li>🔭 Currently learning Java Backend Development</li>
-    <li>🔋 Electronic Engineering graduate</li>
-    <li>😄 Taking walks and watching football are my hobbies</li>
-  </ul>
+  
+- 🌱 I like experimenting with new technologies
+- 🧑‍💻 Full-stack React and Spring developer
+- 🔋 Electronic Engineering graduate
+- 😄 Taking walks and watching football are my hobbies
+  
   
 ## 🔨 Tech Stack <a name="built-with"/>
-  <ul>
-	   <li>TypeScript | ReactJS | Redux | Jest | Testing Library | TailwindCSS | Bootstrap | Sass </li>
-	   <li>VSCode | Git | Gitflow | Netlify</li>
-  </ul>
+ 
+  - Java | Spring Framework | PostgreSQL | Junit | Spring Data |  Spring Security | Springdoc | Bean Validation | REST APIs
+  - React | JavaScript | TypeScript | React Native | Redux | Vitest | Testing Library | Playwright | Sass | Bootstrap | TailwindCSS
+  - Creative thinking | Teamwork | Problem Solving
+	  
+  
